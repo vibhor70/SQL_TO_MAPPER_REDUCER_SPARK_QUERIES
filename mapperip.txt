@@ -1,0 +1,1 @@
+{"columns": ["PID"], "tables": "SIMILAR", "wlhs": "PID", "wo": "<", "wrhs": "20", "group": ["PID"], "func": "COUNT", "agg": "PID", "op": ">=", "rhs": "4"}

@@ -1,0 +1,1 @@
+{"WHERE": "filter(col(PID) < int(20))", "SELECT": "select(PID )", "GROUPBY": ["PID"], "HAVING": "agg(count(PID))"}
